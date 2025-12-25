@@ -53,7 +53,7 @@ This project explores:
 
 💡 Key Insights
 - Delhi, Byrnihat, Gurugram: Highest AQI zones — priority markets
-- South India: PM10 & SO2 dominant → Chemical scrubbers needed
+- PM2.5 being the most dominant pollutant across all states
 - Health Impact: Children & working adults most affected
 - EV ≠ Solution: High EV adoption hasn’t reduced AQI in top cities
 
