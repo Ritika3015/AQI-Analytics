@@ -2,8 +2,8 @@
 
 ---
 
-## 🚀 Live Interactive Dashboard (Power BI)
-🔗 **[Open Power BI AQI Analytics Dashboard](https://app.powerbi.com/links/AWfLcqh0BX?ctid=dceafa58-89d9-419f-8d1a-cc0295447f38&pbi_source=linkShare&bookmarkGuid=fd3824b7-3178-4d4c-89ae-bdcc2143d5dc)** 
+## 🚀 Live Interactive Dashboard
+🔗 **[Power BI AQI Analytics Dashboard](https://app.powerbi.com/links/AWfLcqh0BX?ctid=dceafa58-89d9-419f-8d1a-cc0295447f38&pbi_source=linkShare&bookmarkGuid=fd3824b7-3178-4d4c-89ae-bdcc2143d5dc)** 
 
 ---
 
