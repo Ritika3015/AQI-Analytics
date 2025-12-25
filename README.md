@@ -1,10 +1,9 @@
 # 🌍 AQI Analytics Dashboard
 
 ---
----
 
-## 🚀 View Dashboard
-🔗 **[Open Power BI AQI Analytics Dashboard]([https://app.powerbi.com](https://app.powerbi.com/links/AWfLcqh0BX?ctid=dceafa58-89d9-419f-8d1a-cc0295447f38&pbi_source=linkShare&bookmarkGuid=599cc01d-ce95-4b5c-9172-215f425109cf)**  
+## 🚀 Live Interactive Dashboard (Power BI)
+🔗 **[Open Power BI AQI Analytics Dashboard](https://app.powerbi.com/links/AWfLcqh0BX?ctid=dceafa58-89d9-419f-8d1a-cc0295447f38&pbi_source=linkShare&bookmarkGuid=fd3824b7-3178-4d4c-89ae-bdcc2143d5dc)** 
 
 ---
 
