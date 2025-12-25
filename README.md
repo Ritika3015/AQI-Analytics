@@ -1,42 +1,48 @@
-🌍 AQI Analytics Dashboard
-----------------------------------------------------------------------------------------
-📌 Overview
+# 🌍 AQI Analytics Dashboard
 
-The AQI Analytics Dashboard is an interactive Power BI report that helps analyze and monitor air quality trends across states and cities. It enables year-over-year AQI comparison, highlights pollution severity, and identifies high-risk regions using clean, visual storytelling.
+---
 
-----------------------------------------------------------------------------------------
-✨ Key Features
+## 📌 Overview
+The **AQI Analytics Dashboard** is an interactive Power BI project that analyzes air quality trends across states and cities. It enables year-over-year AQI comparison, highlights pollution severity, and helps identify high-risk regions using intuitive visuals.
 
-📊 AQI comparison over the years
-📈 Maximum, Minimum & Average AQI KPIs
-🚦 Air Quality Status breakdown (Good ➜ Severe)
-🗺️ State-wise & City-wise analysis
-🧪 Prominent pollutant insights
-🎛️ Interactive slicers (State | Year | Pollutant)
+---
 
-----------------------------------------------------------------------------------------
-🛠️ Tools & Technologies
+## ✨ Key Features
+- 📊 Current vs Previous Year AQI comparison  
+- 📈 Maximum & Average AQI KPIs  
+- 🚦 Air Quality Status distribution (Good ➜ Severe)  
+- 🗺️ State-wise & City-wise AQI analysis  
+- 🧪 Prominent pollutant insights  
+- 🎛️ Interactive slicers (State | Year | Pollutant)
 
-🟡 Power BI – Data visualization & dashboarding
-🔢 DAX – Measures, KPIs, and time intelligence
-🔄 Power Query – Data cleaning & transformation
+---
 
-----------------------------------------------------------------------------------------
-🎯 Use Cases
+## 🛠️ Tech Stack
+- **Power BI** – Dashboard & visualization  
+- **DAX** – Measures, KPIs & time intelligence  
+- **Power Query** – Data cleaning & transformation  
 
-🌱 Environmental monitoring & reporting
-🏛️ Policy & compliance analysis
-📉 Trend analysis for decision-making
-💼 Portfolio project showcasing Power BI & analytics skills
+---
 
-----------------------------------------------------------------------------------------
-▶️ How to Use
+## 🎯 Use Cases
+- Environmental monitoring & reporting  
+- Policy & compliance analysis  
+- Trend-based decision making  
+- Analytics portfolio project  
 
-🎚️ Select State and Year from slicers
-🔍 Explore AQI trends using KPIs and visuals
-🔄 Compare air quality performance across regions
+---
 
-----------------------------------------------------------------------------------------
-⭐ Support
+## ▶️ How to Use
+1. Select **State** and **Year** using slicers  
+2. Explore AQI KPIs and trends  
+3. Compare air quality performance across regions  
 
-If you like this project and find it useful, do give it a ⭐ — it really helps and motivates me to create more such dashboards!
+---
+
+## 🗂️ Dataset
+Contains AQI-related fields such as **Date, State, City/Area, AQI Value, Air Quality Status**, and **Prominent Pollutants**.
+
+---
+
+## ⭐ Support
+If you like this project and find it useful, **do give it a ⭐ on GitHub** — it really helps and motivates me to build more dashboards!
