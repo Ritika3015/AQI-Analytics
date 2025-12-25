@@ -2,8 +2,15 @@
 
 ---
 
-## 📌 Overview
-The **AQI Analytics Dashboard** is an interactive Power BI project that analyzes air quality trends across states and cities. It enables year-over-year AQI comparison, highlights pollution severity, and helps identify high-risk regions using intuitive visuals.
+## 📌 Project Overview
+India faces one of the highest air pollution levels globally. But pollution isn’t uniform — every city, every region has a unique pollution profile.
+
+This project explores:
+
+- Where air quality is the worst
+- Who is most affected
+- Which pollutants dominate in each region
+- Whether government policies and EVs are helping
 
 ---
 
@@ -36,6 +43,14 @@ The **AQI Analytics Dashboard** is an interactive Power BI project that analyzes
 1. Select **State** and **Year** using slicers  
 2. Explore AQI KPIs and trends  
 3. Compare air quality performance across regions  
+
+---
+
+💡 Key Insights
+- Delhi, Byrnihat, Gurugram: Highest AQI zones — priority markets
+- South India: PM10 & SO2 dominant → Chemical scrubbers needed
+- Health Impact: Children & working adults most affected
+- EV ≠ Solution: High EV adoption hasn’t reduced AQI in top cities
 
 ---
 
