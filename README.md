@@ -39,10 +39,5 @@ The **AQI Analytics Dashboard** is an interactive Power BI project that analyzes
 
 ---
 
-## 🗂️ Dataset
-Contains AQI-related fields such as **Date, State, City/Area, AQI Value, Air Quality Status**, and **Prominent Pollutants**.
-
----
-
 ## ⭐ Support
 If you like this project and find it useful, **do give it a ⭐ on GitHub** — it really helps and motivates me to build more dashboards!
